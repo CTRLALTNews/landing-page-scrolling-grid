@@ -1,0 +1,2 @@
+https://tailwindcss.com/docs/guides/vite
+npm create vite@latest my-react-app -- --template react-ts
